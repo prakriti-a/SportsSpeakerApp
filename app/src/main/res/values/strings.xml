@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sports Speaker</string>
+    <string name="taekwondo">taekwondo</string>
+    <string name="boxing">boxing</string>
+    <string name="kickboxing">kickboxing</string>
+    <string name="aikido">aikido</string>
+    <string name="karate">karate</string>
+    <string name="judo">judo</string>
+</resources>
